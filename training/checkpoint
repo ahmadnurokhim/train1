@@ -1,8 +1,10 @@
-<<<<<<< HEAD
-model_checkpoint_path: "ckpt-39"
-=======
+
 model_checkpoint_path: "ckpt-61"
->>>>>>> 74cfdf21ff24f42b448ed1348f3a11cf3a9cc81b
+
+model_checkpoint_path: "ckpt-39"
+
+model_checkpoint_path: "ckpt-61"
+
 all_model_checkpoint_paths: "ckpt-1"
 all_model_checkpoint_paths: "ckpt-2"
 all_model_checkpoint_paths: "ckpt-3"
@@ -42,8 +44,6 @@ all_model_checkpoint_paths: "ckpt-36"
 all_model_checkpoint_paths: "ckpt-37"
 all_model_checkpoint_paths: "ckpt-38"
 all_model_checkpoint_paths: "ckpt-39"
-<<<<<<< HEAD
-=======
 all_model_checkpoint_paths: "ckpt-40"
 all_model_checkpoint_paths: "ckpt-41"
 all_model_checkpoint_paths: "ckpt-42"
@@ -66,7 +66,6 @@ all_model_checkpoint_paths: "ckpt-58"
 all_model_checkpoint_paths: "ckpt-59"
 all_model_checkpoint_paths: "ckpt-60"
 all_model_checkpoint_paths: "ckpt-61"
->>>>>>> 74cfdf21ff24f42b448ed1348f3a11cf3a9cc81b
 all_model_checkpoint_timestamps: 1654256901.949741
 all_model_checkpoint_timestamps: 1654257665.517895
 all_model_checkpoint_timestamps: 1654258339.5583556
@@ -106,8 +105,6 @@ all_model_checkpoint_timestamps: 1654350039.394252
 all_model_checkpoint_timestamps: 1654350908.5614414
 all_model_checkpoint_timestamps: 1654351282.865677
 all_model_checkpoint_timestamps: 1654351658.5226102
-<<<<<<< HEAD
-=======
 all_model_checkpoint_timestamps: 1654354769.8684587
 all_model_checkpoint_timestamps: 1654355144.6096747
 all_model_checkpoint_timestamps: 1654355520.3070285
@@ -130,5 +127,4 @@ all_model_checkpoint_timestamps: 1654361906.2070718
 all_model_checkpoint_timestamps: 1654362283.0794618
 all_model_checkpoint_timestamps: 1654362661.2276177
 all_model_checkpoint_timestamps: 1654363038.026297
->>>>>>> 74cfdf21ff24f42b448ed1348f3a11cf3a9cc81b
 last_preserved_timestamp: 1654256900.3245542
